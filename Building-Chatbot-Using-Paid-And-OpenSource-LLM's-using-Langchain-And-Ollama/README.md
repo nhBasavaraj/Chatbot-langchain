@@ -26,10 +26,10 @@ This project sets up a chatbot using the Phi-3 model provided by Ollama. The app
 This project sets up a chatbot using the GPT-3.5-turbo model provided by OpenAI. The application uses Streamlit for the frontend interface.
 
 #### Key Features:
-- **Language Model: GPT-3.5-turbo by OpenAI
-- **Prompt Template: Configured to make the chatbot respond as a helpful assistant.
-- **Environment Variables: Utilizes .env file to securely load API keys for OpenAI and LangChain.
-- **Streamlit Interface: Provides a text input for user queries and displays the chatbot responses.
+- **Language Model**: GPT-3.5-turbo by OpenAI
+- **Prompt Template**: Configured to make the chatbot respond as a helpful assistant.
+- **Environment Variables**: Utilizes .env file to securely load API keys for OpenAI and LangChain.
+- **Streamlit Interface**: Provides a text input for user queries and displays the chatbot responses.
 
 
 
